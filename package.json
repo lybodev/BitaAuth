@@ -1,0 +1,19 @@
+{
+  "name": "biteauth",
+  "version": "1.0.0",
+  "description": "License verification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lybodev/BiteAuth.git"
+  },
+  "author": "Vylux, Sawenex",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/lybodev/BiteAuth/issues"
+  },
+  "homepage": "https://github.com/lybodev/BiteAuth#readme"
+}
