@@ -16,5 +16,5 @@ Simples sistema de autenticação feito em NODE.JS, pega o texto de um site e ve
 
 Créditos:
 **Lybo Development BRA** pela criação do código e aprimoração
-  
+                  
 **535989700561993733 - Guaxinim** por ensinar a como usar o node-fetch com exemplos
