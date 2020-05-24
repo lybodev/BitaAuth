@@ -2,7 +2,7 @@ const fetch = require("node-fetch")
 const licenca = require("./license.json")
 
 async function main() {
-            let texto = await (await fetch("https://pastebin.com/raw/CwbRkNkU")).text()
+            let texto = await (await fetch("Site com a licença")).text()
     if(licenca.license.includes(texto)) {
             // Oque acontecerá se a licença bater com a do texto
                                         console.log('License Valid') // Retorna "Licença Válida" se a licença for válida
